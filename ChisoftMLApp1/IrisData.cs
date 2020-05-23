@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ChisoftMLApp1
 {
-    class IrisData
+    public class IrisData
     {
         [LoadColumn(0)]
         public float SepalLength;
